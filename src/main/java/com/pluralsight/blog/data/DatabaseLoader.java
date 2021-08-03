@@ -20,7 +20,6 @@ public class DatabaseLoader implements ApplicationRunner {
             "Earbuds", "Speakers", "Tripod", "Instant Pot", "Coffee Cup", "Keyboard", "Sunglasses"};
     public List<Post> randomPosts = new ArrayList<>();
     public List<Author> authors = new ArrayList<>();
-
     public DatabaseLoader() {
     }
 
